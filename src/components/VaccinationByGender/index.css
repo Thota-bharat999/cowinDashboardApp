@@ -1,0 +1,16 @@
+.vaccination-gender-container {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  background-color: #1c1c2b;
+  padding: 30px;
+  width: 1000px;
+  border-radius: 12px;
+  margin-bottom: 30px;
+}
+.gender-heading {
+  font-weight: 'Roboto';
+  font-size: 28px;
+  font-weight: 600;
+  color: #cbd5e1;
+}
